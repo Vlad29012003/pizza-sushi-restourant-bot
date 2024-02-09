@@ -36,3 +36,18 @@ You can contribute to the project by submitting proposals, bug reports, or enhan
 Improve the README with detailed instructions and examples.
 
 Expand the functionality of the bot by adding more features such as an enhanced menu, order processing, and payment.
+
+
+## Project Team
+Your name or nickname — Developer
+
+Other team members (if any)
+
+
+
+## Sources
+Ideas and inspiration were drawn from various resources and tutorials on creating Telegram bots and managing a restaurant.
+
+
+This README.md file contains the requested information in English. If you need any further modifications, feel free to ask!
+
