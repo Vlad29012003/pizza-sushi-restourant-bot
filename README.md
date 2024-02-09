@@ -2,11 +2,25 @@
 
 Pizza-Sushi-Restaurant-Bot is a Telegram bot for ordering pizza, sushi, and burgers from a restaurant.
 
-## Technologies
+
+## Table of Contents
+- [Technologies 🙂](#technologies-)
+- [Getting Started 🧪](#getting-started-) 
+- [Deploy and CI/CD 🚀](#deploy-and-cicd-) 
+- [How to Play🚀](#how-to-play) 
+- [Testing 🧪](#testing-)
+- [Contributing 🤝](#contributing-)
+- [To Do ✅](#to-do-)
+- [Project Team 👥](#project-team-)
+- [Sources 📚](#sources-)
+
+
+## Technologies 🙂
 - Python
 - Telegram Bot API
 
-## Getting Started
+
+## Getting Started 🧪
 1. Make sure Python is installed on your computer.
 2. Clone this repository to your computer.
 3. Navigate to the directory with the cloned repository.
@@ -16,7 +30,12 @@ Pizza-Sushi-Restaurant-Bot is a Telegram bot for ordering pizza, sushi, and burg
 python pizza_sushi_restaurant_bot.py
 ```
 
-## How to Play
+
+## Deploy and CI/CD 🚀
+The game is deployed locally. CI/CD is not set up yet.
+
+
+## How to Play 🚀
 1) Start the game by sending the command /start to the bot.
 
 2) The bot will prompt you to choose an action.
@@ -28,24 +47,27 @@ python pizza_sushi_restaurant_bot.py
 5) Choose the type of food and follow the instructions to place your order.
 
 
+## Testing 🧪
+The game has been tested using unit tests.
+
+
 ## Contributing
 You can contribute to the project by submitting proposals, bug reports, or enhancements. To do this, create a pull request. For detailed instructions, see the CONTRIBUTING.md file.
 
 
-## To Do
+## To Do  ✅
 Improve the README with detailed instructions and examples.
 
 Expand the functionality of the bot by adding more features such as an enhanced menu, order processing, and payment.
 
 
-## Project Team
+## Project Team  👥
 Your name or nickname — Developer
 
 Other team members (if any)
 
 
-
-## Sources
+## Sources 📚
 Ideas and inspiration were drawn from various resources and tutorials on creating Telegram bots and managing a restaurant.
 
 
